@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I am Naama Stern, A motivated Full-Stack Developer focused on expanding my technical expertise and mastering new skills.
+I am Naama Stern, A motivated Full-Stack Developer 👩‍💻 focused on expanding my technical expertise and mastering new skills.
 
 ---
 
@@ -44,10 +44,24 @@ I am Naama Stern, A motivated Full-Stack Developer focused on expanding my techn
 
 ---
 
-### Connect with me:
+### 👤 Connect with me:
 
 | Platform | Link |
 | :--- | :--- |
 | ✉️ **Email** | <a href="mailto:naanas344@gmail.com">`naanas344@gmail.com`</a> |
 | 🐙 **GitHub** | <a href="https://github.com/naama-git">`@naama-git`</a> |
 | 📄 **Resume** | <a href="https://drive.google.com/file/d/19zHVRdDFi5B8R_qwo0pn3MDqYu90gUBn/view?usp=sharing">`View My CV`</a> |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Auction Management System 
+- **Description:** A complete Full-Stack Chinese Auction Management platform featuring a dynamic prize catalog, role-based access control, a secure shopping cart system, and an automated raffle engine. 
+- **Architecture & Tech:** Built using **Clean Architecture**, .NET 8, and Angular 18 (Signals).
+- **Link:** [chinese-auction-project](https://github.com/naama-git/chinese-auction-project)
+
+#### 🔹 NotesMT - Location-Based Notes App
+- **Description:** A cross-platform mobile and web application NotesMT allows users to create, manage, and visualize notes on an interactive map, featuring real-time synchronization with Firebase.
+- **Architecture & Tech:** Built with Expo, and React-Native.
+- **Link:** [NotesMT](https://github.com/naama-git/NotesMT)

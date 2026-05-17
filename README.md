@@ -42,4 +42,12 @@ I am Naama Stern, A motivated Full-Stack Developer focused on expanding my techn
   <img src="https://img.icons8.com/material-outlined/48/artificial-intelligence.png" alt="AI" width="40" hspace="6" />
 </p>
 
+---
 
+### Connect with me:
+
+| Platform | Link |
+| :--- | :--- |
+| ✉️ **Email** | <a href="mailto:naanas344@gmail.com">`naanas344@gmail.com`</a> |
+| 🐙 **GitHub** | <a href="https://github.com/naama-git">`@naama-git`</a> |
+| 📄 **Resume** | <a href="https://drive.google.com/file/d/19zHVRdDFi5B8R_qwo0pn3MDqYu90gUBn/view?usp=sharing">`View My CV`</a> |

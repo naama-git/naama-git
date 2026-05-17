@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm Naama Stern, A motivated Full-Stack Developer focused on expanding my technical expertise and mastering new skills.
+I am Naama Stern, A motivated Full-Stack Developer focused on expanding my technical expertise and mastering new skills.
 
 ---
 
@@ -13,9 +13,10 @@ I'm Naama Stern, A motivated Full-Stack Developer focused on expanding my techni
 - 🎨 **DX & Quality:** Deeply care about Developer Experience (DX), clean code standards, and clear documentation.
 - 🚀 **Continuous Learning:** Enthusiastic about exploring software internals, exploring how frameworks work under the hood, and mastering new technologies.
 
+---
 
 ### 🛠️ My Tech Stack: 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,cs,java,py,cpp&theme=light" alt="Languages" height="40" />
 <img src="https://skillicons.dev/icons?i=react,angular,html,css&theme=light" alt="Frontend" height="40" />
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,django,nestjs&theme=light" alt="Backend" height="40" />
@@ -25,9 +26,3 @@ I'm Naama Stern, A motivated Full-Stack Developer focused on expanding my techni
 <img src="https://skillicons.dev/icons?i=docker,bash,linux,firebase,postman,ai,git,github&theme=light" alt="Skills" height="40" />
 </p>
 
-
-
-### 📊 Github Stats:
-
-
-### 🔋Projects:

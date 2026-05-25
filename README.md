@@ -44,16 +44,6 @@ I am Naama Stern, A motivated Full-Stack Developer 👩‍💻 focused on expand
 
 ---
 
-### 👤 Connect with me:
-
-| Platform | Link |
-| :--- | :--- |
-| ✉️ **Email** | <a href="mailto:naanas344@gmail.com">`naanas344@gmail.com`</a> |
-| 🐙 **GitHub** | <a href="https://github.com/naama-git">`@naama-git`</a> |
-| 📄 **Resume** | <a href="https://drive.google.com/file/d/19zHVRdDFi5B8R_qwo0pn3MDqYu90gUBn/view?usp=sharing">`View My CV`</a> |
-
----
-
 ### 🚀 Featured Projects
 
 #### 🔹 Auction Management System 

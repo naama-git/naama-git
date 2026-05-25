@@ -8,7 +8,7 @@ I am Naama Stern, A motivated Full-Stack Developer 👩‍💻 focused on expand
 ### 📃 About me:
 
 
-- 🌐 **Full-Stack Development:** Experienced in building end-to-end applications, combining solid server-side logic with dynamic, responsive user interfaces.
+- 🌐 **Full-Stack Development:** Building end-to-end applications, combining server-side logic with dynamic and responsive user interfaces.
 - 🏗️ **Software Architecture:** Passionate about modern architectural patterns and clean coding practices.
 - 🎨 **DX & Quality:** Deeply care about Developer Experience (DX), clean code standards, and clear documentation.
 - 🚀 **Continuous Learning:** Enthusiastic about exploring software internals, exploring how frameworks work under the hood, and mastering new technologies.
